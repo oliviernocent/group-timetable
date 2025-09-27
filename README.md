@@ -13,23 +13,31 @@ Liste des groupes de l'UFR STAPS
 
 ---
 
-## <a name="DEUST1"></a>DEUST 1 AGAPSC
+<a name="DEUST1"></a>
+
+## DEUST 1 AGAPSC
 
 - [Groupe Football](https://celcat-auth.univ-reims.fr/913/g54154.html)
 - Groupe Multisports
 
-## DEUST 2 AGAPSC<a name="DEUST2"></a>
+<a name="DEUST2"></a>
+
+## DEUST 2 AGAPSC
 
 - [Groupe Football](https://celcat-auth.univ-reims.fr/913/g54158.html)
 - Groupe Natation
 
-## LP AGOAPS<a name="LP"></a>
+<a name="LP"></a>
+
+## LP AGOAPS
 
 - [Groupe Boxe](https://celcat-auth.univ-reims.fr/913/g54135.html)
 - [Groupe Football](https://celcat-auth.univ-reims.fr/913/g54139.html)
 - [Groupe Multisports](https://celcat-auth.univ-reims.fr/913/g54147.html)
 
-## Licence 1<a name="L1"></a>
+<a name="L1"></a>
+
+## Licence 1
 
 - [Groupe 1](https://celcat-auth.univ-reims.fr/913/g42140.html)
 - [Groupe 2](https://celcat-auth.univ-reims.fr/913/g42160.html)
@@ -51,7 +59,9 @@ Liste des groupes de l'UFR STAPS
 - [Groupe 16](https://celcat-auth.univ-reims.fr/913/g42457.html)
 - [Groupe 17](https://celcat-auth.univ-reims.fr/913/g42477.html)
 
-## Licence 2 Éducation Motricité<a name="L2EM"></a>
+<a name="L2EM"></a>
+
+## Licence 2 Éducation Motricité
 
 - [Groupe 1](https://celcat-auth.univ-reims.fr/913/g55040.html)
   - [Groupe 1A](https://celcat-auth.univ-reims.fr/913/g30602.html)
@@ -69,7 +79,9 @@ Liste des groupes de l'UFR STAPS
   - [Groupe 4A](https://celcat-auth.univ-reims.fr/913/g46159.html)
   - [Groupe 4B](https://celcat-auth.univ-reims.fr/913/g46168.html)
 
-## <a name="L2MS"></a>Licence 2 Management du Sport
+<a name="L2MS"></a>
+
+## Licence 2 Management du Sport
 
 - [Groupe 5](https://celcat-auth.univ-reims.fr/913/g55060.html)
   - [Groupe 5A](https://celcat-auth.univ-reims.fr/913/g46204.html)
@@ -79,7 +91,9 @@ Liste des groupes de l'UFR STAPS
   - [Groupe 6A](https://celcat-auth.univ-reims.fr/913/g46214.html)
   - [Groupe 6B](https://celcat-auth.univ-reims.fr/913/g46219.html)
 
-## Licence 2 Ergonomie du Sport, Performance Motrice<a name="L2ESPM"></a>
+<a name="L2ESPM"></a>
+
+## Licence 2 Ergonomie du Sport, Performance Motrice
 
 - [Groupe 7](https://celcat-auth.univ-reims.fr/913/g46458.html)
   - [Groupe 7A](https://celcat-auth.univ-reims.fr/913/g46176.html)
@@ -89,7 +103,9 @@ Liste des groupes de l'UFR STAPS
   - [Groupe 8A](https://celcat-auth.univ-reims.fr/913/g42537.html)
   - [Groupe 8B](https://celcat-auth.univ-reims.fr/913/g42557.html)
 
-## Licence 3 Éducation Motricité<a name="L3EM"></a>
+<a name="L3EM"></a>
+
+## Licence 3 Éducation Motricité
 
 - [Groupe 1](https://celcat-auth.univ-reims.fr/913/g46191.html)
   - [Groupe 1A](https://celcat-auth.univ-reims.fr/913/g46224.html)
@@ -103,12 +119,16 @@ Liste des groupes de l'UFR STAPS
   - [Groupe 3A](https://celcat-auth.univ-reims.fr/913/g46377.html)
   - [Groupe 3B](https://celcat-auth.univ-reims.fr/913/g46382.html)
 
-## Licence 3 Management du Sport<a name="L3MS"></a>
+<a name="L3MS"></a>
+
+## Licence 3 Management du Sport
 
 - [Groupe 1](https://celcat-auth.univ-reims.fr/913/g46393.html)
 - [Groupe 2](https://celcat-auth.univ-reims.fr/913/g46397.html)
 
-## Licence 3 Ergonomie du Sport, Performance Motrice<a name="L3ESPM"></a>
+<a name="L3ESPM"></a>
+
+## Licence 3 Ergonomie du Sport, Performance Motrice
 
 - [Groupe 1](https://celcat-auth.univ-reims.fr/913/g46431.html)
   - [Groupe 1A](https://celcat-auth.univ-reims.fr/913/g46440.html)
