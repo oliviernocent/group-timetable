@@ -1,4 +1,4 @@
-# Liste des groupes de l'UFR STAPS
+Liste des groupes de l'UFR STAPS
 
 - [DEUST 1 AGAPSC](#DEUST1)
 - [DEUST 2 AGAPSC](#DEUST2)
@@ -13,7 +13,7 @@
 
 ---
 
-## DEUST 1 AGAPSC<a name="DEUST1"></a>
+## <a name="DEUST1"></a>DEUST 1 AGAPSC
 
 - [Groupe Football](https://celcat-auth.univ-reims.fr/913/g54154.html)
 - Groupe Multisports
@@ -69,7 +69,7 @@
   - [Groupe 4A](https://celcat-auth.univ-reims.fr/913/g46159.html)
   - [Groupe 4B](https://celcat-auth.univ-reims.fr/913/g46168.html)
 
-## Licence 2 Management du Sport<a name="L2MS"></a>
+## <a name="L2MS"></a>Licence 2 Management du Sport
 
 - [Groupe 5](https://celcat-auth.univ-reims.fr/913/g55060.html)
   - [Groupe 5A](https://celcat-auth.univ-reims.fr/913/g46204.html)
