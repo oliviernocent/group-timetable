@@ -1,4 +1,4 @@
-Liste des groupes de l'UFR STAPS
+# Liste des groupes de l'UFR STAPS
 
 - [DEUST 1 AGAPSC](#DEUST1)
 - [DEUST 2 AGAPSC](#DEUST2)
