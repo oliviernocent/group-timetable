@@ -10,6 +10,10 @@
 - [Licence 3 Éducation Motricité](#L3EM)
 - [Licence 3 Management du Sport](#L3MS)
 - [Licence 3 Ergonomie du Sport, Performance Motrice](#L3ESPM)
+- [Master 1 IEAP parcours Ergonomie Mouvement Santé](#M1IEAPEMS)
+- [Master 1 IEAP parcours Ingénierie Conception Data Science Performance](#M1IEAPICDSP)
+- [Master 2 IEAP parcours Ergonomie Mouvement Santé](#M2IEAPEMS)
+- [Master 2 IEAP parcours Ingénierie Conception Data Science Performance](#M2IEAPICDSP)
 
 ---
 
@@ -133,4 +137,34 @@
 - [Groupe 1](https://celcat-auth.univ-reims.fr/913/g46431.html)
   - [Groupe 1A](https://celcat-auth.univ-reims.fr/913/g46440.html)
   - [Groupe 1B](https://celcat-auth.univ-reims.fr/913/g46445.html)
+
+<a name="M1IEAPEMS"></a>
+
+## Master 1 IEAP parcours Ergonomie Mouvement Santé
+
+- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g37684.html)
+  - [Groupe 1A](https://celcat-auth.univ-reims.fr/913/g187958.html)
+  - [Groupe 1B](https://celcat-auth.univ-reims.fr/913/g187959.html)
+
+<a name="M1IEAPICDSP"></a>
+
+## Master 1 IEAP parcours Ingénierie Conception Data Science Performance
+
+- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g41946.html)
+  - [Groupe 1A](https://celcat-auth.univ-reims.fr/913/g187997.html)
+  - [Groupe 1B](https://celcat-auth.univ-reims.fr/913/g187998.html)
+
+<a name="M2IEAPEMS"></a>
+
+## Master 2 IEAP parcours Ergonomie Mouvement Santé
+
+- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g37694.html)
+  - [Groupe 1A](https://celcat-auth.univ-reims.fr/913/g187960.html)
+  - [Groupe 1B](https://celcat-auth.univ-reims.fr/913/g187961.html)
+
+<a name="M2IEAPICDSP"></a>
+
+## Master 2 IEAP parcours Ingénierie Conception Data Science Performance
+
+- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g42043.html)
 
