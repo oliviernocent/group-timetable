@@ -183,17 +183,17 @@
 
 ## Master 1 MS parcours Développement Innovation Sport
 
-- [Groupe 1]()
+- Groupe 1
 
 <a name="M2MSAES"></a>
 
 ## Master 2 MS parcours Analyse Économique du Sport
 
-- [Groupe 1]()
+- Groupe 1
 
 <a name="M2MSDIS"></a>
 
 ## Master 2 MS parcours Développement Innovation Sport
 
-- [Groupe 1]()
+- Groupe 1
 
