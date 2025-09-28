@@ -40,6 +40,7 @@
 ## LP AGOAPS
 
 - [Groupe Boxe](https://celcat-auth.univ-reims.fr/913/g54135.html)
+- [Groupe Boxe MMA](https://celcat-auth.univ-reims.fr/913/g198272.html)
 - [Groupe Football](https://celcat-auth.univ-reims.fr/913/g54139.html)
 - [Groupe Multisports](https://celcat-auth.univ-reims.fr/913/g54147.html)
 
