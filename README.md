@@ -14,6 +14,10 @@
 - [Master 1 IEAP parcours Ingénierie Conception Data Science Performance](#M1IEAPICDSP)
 - [Master 2 IEAP parcours Ergonomie Mouvement Santé](#M2IEAPEMS)
 - [Master 2 IEAP parcours Ingénierie Conception Data Science Performance](#M2IEAPICDSP)
+- [Master 1 MS parcours Analyse Économique du Sport](#M1MSAES)
+- [Master 1 MS parcours Développement Innovation Sport](#M1MSDIS)
+- [Master 2 MS parcours Analyse Économique du Sport](#M2MSAES)
+- [Master 2 MS parcours Développement Innovation Sport](#M2MSDIS)
 
 ---
 
@@ -167,4 +171,28 @@
 ## Master 2 IEAP parcours Ingénierie Conception Data Science Performance
 
 - [Groupe 1](https://celcat-auth.univ-reims.fr/913/g42043.html)
+
+<a name="M1MSAES"></a>
+
+## Master 1 MS parcours Analyse Économique du Sport
+
+- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g150269.html)
+
+<a name="M1MSDIS"></a>
+
+## Master 1 MS parcours Développement Innovation Sport
+
+- [Groupe 1]()
+
+<a name="M2MSAES"></a>
+
+## Master 2 MS parcours Analyse Économique du Sport
+
+- [Groupe 1]()
+
+<a name="M2MSDIS"></a>
+
+## Master 2 MS parcours Développement Innovation Sport
+
+- [Groupe 1]()
 
