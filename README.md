@@ -183,7 +183,7 @@
 
 ## Master 1 MS parcours Développement Innovation Sport
 
-- Groupe 1
+- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g37654.html)
 
 <a name="M2MSAES"></a>
 
