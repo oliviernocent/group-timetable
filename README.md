@@ -1,5 +1,9 @@
 # Emplois du temps des groupes de l'UFR STAPS
 
+- [DU NAPS](#DUNAPS)
+- [DU Recherche](#DURECH)
+- [DU SMPP](#DUSMPP)
+- [Préparation CAPEPS](#CAPEPS)
 - [DEUST 1 AGAPSC](#DEUST1)
 - [DEUST 2 AGAPSC](#DEUST2)
 - [LP AGOAPS](#LP)
@@ -21,11 +25,38 @@
 
 ---
 
+<a name="DUNAPS"></a>
+
+## DU NAPS
+
+- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g39781.html))
+
+<a name="DURECH"></a>
+
+## DU Recherche
+
+- [Groupe 1<sup>ère</sup> année](https://celcat-auth.univ-reims.fr/913/g17685.html)
+- [Groupe 2<sup>ème</sup> année](https://celcat-auth.univ-reims.fr/913/g30913.html)
+
+<a name="DUSMPP"></a>
+
+## DU SMPP
+
+- Groupe 1<sup>ère</sup> année
+- Groupe 2<sup>ème</sup> année
+
+<a name="CAPEPS"></a>
+
+## Préparation CAPEPS
+
+- Groupe *Admissibilité*
+- Groupe *Admission*
+
 <a name="DEUST1"></a>
 
 ## DEUST 1 AGAPSC
 
-- [Groupe Football](https://celcat-auth.univ-reims.fr/913/g54154.html)
+<!-- - [Groupe Football](https://celcat-auth.univ-reims.fr/913/g54154.html) -->
 - Groupe Multisports
 
 <a name="DEUST2"></a>
@@ -33,7 +64,7 @@
 ## DEUST 2 AGAPSC
 
 - [Groupe Football](https://celcat-auth.univ-reims.fr/913/g54158.html)
-- Groupe Natation
+- Groupe Multisports
 
 <a name="LP"></a>
 
@@ -127,6 +158,10 @@
 - [Groupe 3](https://celcat-auth.univ-reims.fr/913/g46253.html)
   - [Groupe 3A](https://celcat-auth.univ-reims.fr/913/g46377.html)
   - [Groupe 3B](https://celcat-auth.univ-reims.fr/913/g46382.html)
+
+- [Groupe 4](https://celcat-auth.univ-reims.fr/913/g46258.html)
+  - [Groupe 4A](https://celcat-auth.univ-reims.fr/913/g47029.html)
+  - [Groupe 4B](https://celcat-auth.univ-reims.fr/913/g47034.html)
 
 <a name="L3MS"></a>
 
