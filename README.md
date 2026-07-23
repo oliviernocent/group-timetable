@@ -29,7 +29,7 @@
 
 ## DU NAPS
 
-- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g39781.html))
+- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g39781.html)
 
 <a name="DURECH"></a>
 
