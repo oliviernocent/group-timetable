@@ -29,14 +29,14 @@
 
 ## DU NAPS
 
-- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g39781.html)
+- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g1642218.html)
 
 <a name="DURECH"></a>
 
 ## DU Recherche
 
-- [Groupe 1<sup>ère</sup> année](https://celcat-auth.univ-reims.fr/913/g17685.html)
-- [Groupe 2<sup>ème</sup> année](https://celcat-auth.univ-reims.fr/913/g30913.html)
+- [Groupe 1<sup>ère</sup> année](https://celcat-auth.univ-reims.fr/913/g1648668.html)
+- [Groupe 2<sup>ème</sup> année](https://celcat-auth.univ-reims.fr/913/g1643620.html)
 
 <a name="DUSMPP"></a>
 
@@ -63,17 +63,17 @@
 
 ## DEUST 2 AGAPSC
 
-- [Groupe Football](https://celcat-auth.univ-reims.fr/913/g54158.html)
+- [Groupe Football](https://celcat-auth.univ-reims.fr/913/g1655065.html)
 - Groupe Multisports
 
 <a name="LP"></a>
 
 ## LP AGOAPS
 
-- [Groupe Boxe](https://celcat-auth.univ-reims.fr/913/g54135.html)
-- [Groupe Boxe MMA](https://celcat-auth.univ-reims.fr/913/g198272.html)
-- [Groupe Football](https://celcat-auth.univ-reims.fr/913/g54139.html)
-- [Groupe Multisports](https://celcat-auth.univ-reims.fr/913/g54147.html)
+- [Groupe Boxe](https://celcat-auth.univ-reims.fr/913/g1655059.html)
+- [Groupe Boxe MMA](https://celcat-auth.univ-reims.fr/913/g1655059.html)
+- [Groupe Football](https://celcat-auth.univ-reims.fr/913/g1655060.html)
+- [Groupe Multisports](https://celcat-auth.univ-reims.fr/913/g1655062.html)
 
 <a name="L1"></a>
 
@@ -199,36 +199,38 @@
 ## Master 2 IEAP parcours Ergonomie Mouvement Santé
 
 - [Groupe 1](https://celcat-auth.univ-reims.fr/913/g1655496.html)
-  - [Groupe 1A](https://celcat-auth.univ-reims.fr/913/g187960.html)
-  - [Groupe 1B](https://celcat-auth.univ-reims.fr/913/g187961.html)
+  - [Groupe 1A](https://celcat-auth.univ-reims.fr/913/g1655496.html)
+  - [Groupe 1B](https://celcat-auth.univ-reims.fr/913/g1655497.html)
 
 <a name="M2IEAPICDSP"></a>
 
 ## Master 2 IEAP parcours Ingénierie Conception Data Science Performance
 
-- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g42043.html)
+- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g1646023.html)
+  - [Groupe 1A]()
+  - [Groupe 1B]()
 
 <a name="M1MSAES"></a>
 
 ## Master 1 MS parcours Analyse Économique du Sport
 
-- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g150269.html)
+- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g1648572.html)
 
 <a name="M1MSDIS"></a>
 
 ## Master 1 MS parcours Développement Innovation Sport
 
-- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g37654.html)
+- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g1649432.html)
 
 <a name="M2MSAES"></a>
 
 ## Master 2 MS parcours Analyse Économique du Sport
 
-- Groupe 1
+- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g1662976.html)
 
 <a name="M2MSDIS"></a>
 
 ## Master 2 MS parcours Développement Innovation Sport
 
-- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g109126.html)
+- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g1662970.html)
 
