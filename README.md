@@ -57,14 +57,14 @@
 ## DEUST 1 AGAPSC
 
 <!-- - [Groupe Football](https://celcat-auth.univ-reims.fr/913/g54154.html) -->
-- Groupe Multisports
+- [Groupe Multisports](https://celcat-auth.univ-reims.fr/913/g1699676.html)
 
 <a name="DEUST2"></a>
 
 ## DEUST 2 AGAPSC
 
 - [Groupe Football](https://celcat-auth.univ-reims.fr/913/g1655065.html)
-- Groupe Multisports
+- [Groupe Multisports](https://celcat-auth.univ-reims.fr/913/g1699677.html)
 
 <a name="LP"></a>
 
