@@ -198,7 +198,7 @@
 
 ## Master 2 IEAP parcours Ergonomie Mouvement Santé
 
-- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g1655496.html)
+- [Groupe 1](https://celcat-auth.univ-reims.fr/913/g1649461.html)
   - [Groupe 1A](https://celcat-auth.univ-reims.fr/913/g1655496.html)
   - [Groupe 1B](https://celcat-auth.univ-reims.fr/913/g1655497.html)
 
